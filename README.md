@@ -111,7 +111,7 @@ keyscan_start	Begins capturing keys typed in the target. On the Windows target, 
 
 keyscan_dump	Shows the keystrokes captured so far
 
-![Screenshot 2025-04-21 111943](https://github.com/user-attachments/assets/1fd7ce7e-1f82-4d82-a199-11febfc6b19f)
+![Screenshot 2025-04-21 113024](https://github.com/user-attachments/assets/13054904-2055-4dd4-b79d-a91b3b5ca93c)
 
 
 
